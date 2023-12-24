@@ -1,0 +1,55 @@
+fulaye est une plateforme numerique qui facilite l'accés et fait la promotion des activités quotidiennes
+ - Fulaye vous donne acces à un repertoire des entreprises, articles, activités de notre quotidien
+ - Fulaye fait la promotion de votre organisation ou activités
+ - Fulaye vous fait gagner de l'argent sans beaucoup d'efforts
+ - Fulaye vous connecte à tous vos petits besoins quotidiennes
+
+RAF
+ (v)J'aime
+ Connexion et deconnexion
+ (v)commentaire
+ telecharger Generation qrCode
+ Recherche
+ Solde
+ partage profil
+ Slide pub
+ Verification numero existant
+ Creation slug (link)
+
+
+
+Notification
+ Demande disponibilité
+ Ajouté au reseau
+ reponse disponibilité
+ J'aime
+ Ajout article d"une personne de mon reseau
+ Nouvel article en solde ou promotion
+
+Statistique
+- Nombre scan
+- Nombre d"appartenance au reseau
+- Nombre des jamais
+- Les articles les plus suivis
+- Nombre des vus article
+- Nombre des vus profil
+
+
+
+
+TAF TENDRESSE
+
+- Ajout module Divertissement (evenement, park)
+- Ajout module 
+    * Resto/Bar
+    * Casino
+    * Hotel
+
+- Suppression compte (Text)+ Boutton suppression
+- Ajout page confidentialite
+    * Confidentialité whatsapp
+    * Confidentialité affichage dans liste profil
+    * Confidentialité Nume telephone
+
+
+

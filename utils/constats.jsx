@@ -1,0 +1,1 @@
+export const bgColorPrimary="bg-slate-200";
